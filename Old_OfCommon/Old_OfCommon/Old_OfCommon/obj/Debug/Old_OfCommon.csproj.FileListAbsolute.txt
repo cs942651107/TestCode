@@ -7,3 +7,12 @@ D:\Jinwei\Program\Old_OfCommon\Old_OfCommon\Old_OfCommon\bin\Debug\Old_OfCommon.
 D:\Jinwei\Program\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.exe
 D:\Jinwei\Program\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.pdb
 D:\Jinwei\Program\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.csprojResolveAssemblyReference.cache
+E:\Git\Old_OfCommon\Old_OfCommon\Old_OfCommon\bin\Debug\Old_OfCommon.exe.config
+E:\Git\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.exe
+E:\Git\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.pdb
+E:\Git\Old_OfCommon\Old_OfCommon\Old_OfCommon\bin\Debug\Old_OfCommon.exe
+E:\Git\Old_OfCommon\Old_OfCommon\Old_OfCommon\bin\Debug\Old_OfCommon.pdb
+E:\Git\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.csprojResolveAssemblyReference.cache
+E:\Git\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.Form1.resources
+E:\Git\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.Properties.Resources.resources
+E:\Git\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.csproj.GenerateResource.Cache
