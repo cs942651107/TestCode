@@ -1,0 +1,9 @@
+D:\Jinwei\Program\Old_OfCommon\Old_OfCommon\Old_OfCommon\bin\Debug\Old_OfCommon.exe.config
+D:\Jinwei\Program\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.Form1.resources
+D:\Jinwei\Program\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.Properties.Resources.resources
+D:\Jinwei\Program\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.csproj.GenerateResource.Cache
+D:\Jinwei\Program\Old_OfCommon\Old_OfCommon\Old_OfCommon\bin\Debug\Old_OfCommon.exe
+D:\Jinwei\Program\Old_OfCommon\Old_OfCommon\Old_OfCommon\bin\Debug\Old_OfCommon.pdb
+D:\Jinwei\Program\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.exe
+D:\Jinwei\Program\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.pdb
+D:\Jinwei\Program\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.csprojResolveAssemblyReference.cache
