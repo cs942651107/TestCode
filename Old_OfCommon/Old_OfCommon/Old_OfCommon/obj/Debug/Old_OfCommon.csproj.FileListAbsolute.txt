@@ -16,3 +16,12 @@ E:\Git\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.csprojResol
 E:\Git\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.Form1.resources
 E:\Git\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.Properties.Resources.resources
 E:\Git\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.csproj.GenerateResource.Cache
+D:\Git\33\TestCode\Old_OfCommon\Old_OfCommon\Old_OfCommon\bin\Debug\Old_OfCommon.exe.config
+D:\Git\33\TestCode\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.exe
+D:\Git\33\TestCode\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.pdb
+D:\Git\33\TestCode\Old_OfCommon\Old_OfCommon\Old_OfCommon\bin\Debug\Old_OfCommon.exe
+D:\Git\33\TestCode\Old_OfCommon\Old_OfCommon\Old_OfCommon\bin\Debug\Old_OfCommon.pdb
+D:\Git\33\TestCode\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.csprojResolveAssemblyReference.cache
+D:\Git\33\TestCode\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.Form1.resources
+D:\Git\33\TestCode\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.Properties.Resources.resources
+D:\Git\33\TestCode\Old_OfCommon\Old_OfCommon\Old_OfCommon\obj\Debug\Old_OfCommon.csproj.GenerateResource.Cache
